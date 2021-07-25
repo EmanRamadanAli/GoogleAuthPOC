@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalProviderAuthentication_POC", "ExternalProviderAuthentication_POC\ExternalProviderAuthentication_POC.csproj", "{22ADDC41-6061-4DFF-8249-B3AD6282D955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22ADDC41-6061-4DFF-8249-B3AD6282D955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22ADDC41-6061-4DFF-8249-B3AD6282D955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22ADDC41-6061-4DFF-8249-B3AD6282D955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22ADDC41-6061-4DFF-8249-B3AD6282D955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EAC24DE-E19D-4482-A980-82BFB325697F}
+	EndGlobalSection
+EndGlobal
